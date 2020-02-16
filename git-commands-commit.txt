@@ -1,1 +1,2 @@
 git commit -m "[commit message]"	Commit changes
+git commit -m "[message]" -a   		commit with all changes
