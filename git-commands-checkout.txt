@@ -1,0 +1,7 @@
+Checkout means going to a particular commit and seeing the project in that stage. Checkout without branching helps you see the files at particular commit.
+
+Commands
+
+git checkout [commit id] 		Checkout a commit
+git checkout master			checkout master branch
+
