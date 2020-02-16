@@ -1,0 +1,6 @@
+# Ignored files
+new-file.txt
+
+# Ignored folders
+images/*
+ppt/*
