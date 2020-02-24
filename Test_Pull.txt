@@ -1,0 +1,3 @@
+Create a file on github
+Type git pull 
+Your entire remote repositry will update the local repo
