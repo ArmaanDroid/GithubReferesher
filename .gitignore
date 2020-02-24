@@ -2,5 +2,5 @@
 new-file.txt
 
 # Ignored folders
-images/*
-ppt/*
+#images/*
+#ppt/*
